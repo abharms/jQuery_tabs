@@ -1,0 +1,35 @@
+#newsletter {
+	margin-top: 20px;
+}
+
+#nav-tabs {
+	padding: 20px 10px 0;
+	border-radius: 5px 5px 0 0;
+	background: red;
+}
+
+.h5-titles {
+	padding-top: 10px;
+}
+
+.small-dark-title {
+	background: black;
+	color: white;
+	padding: 6px 12px;
+	display: inline-block;
+}
+
+.logo {
+	text-align: center;
+}
+
+a {
+	color: white;
+}
+
+a:hover {
+	color: black;
+}
+
+
+
